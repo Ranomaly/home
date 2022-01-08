@@ -14,7 +14,7 @@ body
     padding-bottom: 15px;
     border: solid black 2px;
     box-sizing: border-box;
-    width:230px;
+    width:225px;
     position: static;
 }
 #nav a{
