@@ -59,9 +59,10 @@ body
 
 #Content
 {
-    margin-right:100px;
+    margin-right:70px;
     margin-left: 230px;
-    text-justify: auto;
+    text-align: justify;
+    text-justify: inter-word;
 
 }
 
