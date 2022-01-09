@@ -1,8 +1,13 @@
+@font-face {
+    font-family: "myFirstFont";
+    src: url("WEBSITE/font/cmu.sans-serif-medium.ttf");
+}
 body
 {
     min-width: 1300px;
     overflow-horizontal:hidden;
     margin-top:20px;
+    font-family: "myFirstFont";
 }
 #nav
 {
